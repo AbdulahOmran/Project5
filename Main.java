@@ -1,7 +1,7 @@
-
+import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
-    
+    Scanner scan = new Scanner 
 
 System.out.println("For today, we're going to have a large increase in customers, so count it for corporate");
 System.out.println("Okay!");
